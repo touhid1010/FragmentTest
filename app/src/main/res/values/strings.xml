@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second_activity_fragment_with_java">
+        SecondActivityFragmentWithJava
+    </string>
+</resources>

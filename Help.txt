@@ -1,0 +1,2 @@
+1. First activity shows add fragment using xml and big screen support using layout-sw500dp folder
+2. Second activity shows add fragment using java
